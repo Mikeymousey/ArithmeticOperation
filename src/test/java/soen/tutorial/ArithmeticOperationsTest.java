@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 public class ArithmeticOperationsTest {
-/*
+
 
 	@Test
 	public void testAdd()
@@ -28,6 +28,6 @@ public class ArithmeticOperationsTest {
         assertEquals(expected, actual);
 
     }
-    */
+
 
 }
